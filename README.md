@@ -1,1 +1,1 @@
-# curso-woocommerce
+# Curso Woocommerce
